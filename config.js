@@ -29,7 +29,7 @@ export const logo = <img src={`${LOGO_URL}`} alt="Logo" className="h-[75px] w-[1
 export const APP_NAME = 'Omniscient Readers Viewpoint';
 export const NavbarName = "Omniscient Readers Viewpoint";
 
-export const APP_DESCRIPTION = `Read ${MANGA_NAME} manga online at ${DOMAIN}. The story revolves around Kim Dokja, an ordinary guy whose life revolves around his favorite web novel, "Three Ways to Survive in a Ruined World."  After reading it for years, the strange day arrives when the novel's events become reality. Dokja is the only one who knows what's coming, armed with the complete story in his mind.`;
+export const APP_DESCRIPTION = `Read ${MANGA_NAME} manhwa or manga all chapters online. The story revolves around Kim Dokja, an ordinary guy whose life revolves around his favorite web novel, "Three Ways to Survive in a Ruined World."  After reading it for years, the strange day arrives when the novel's events become reality. Dokja is the only one who knows what's coming, armed with the complete story in his mind.`;
 
 export const DISQUS_SHORTNAME = "my-cms-7";
 
